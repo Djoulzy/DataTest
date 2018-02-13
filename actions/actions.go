@@ -3,7 +3,7 @@ package actions
 import (
 	"reflect"
 
-	"github.com/Djoulzy/ImgStock/clog"
+	"github.com/Djoulzy/Tools/clog"
 )
 
 func BuildArgsList(iface interface{}, args map[string]interface{}) map[string]interface{} {

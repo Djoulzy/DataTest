@@ -5,7 +5,7 @@ import (
 
 	"github.com/Djoulzy/DataTest/actions"
 	"github.com/Djoulzy/DataTest/datamodel"
-	"github.com/Djoulzy/ImgStock/clog"
+	"github.com/Djoulzy/Tools/clog"
 )
 
 func main() {
